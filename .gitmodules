@@ -4,3 +4,6 @@
 [submodule "RxJava2Examples"]
 	path = RxJava2Examples
 	url = http://github.com/yaolihui/AsProject/RxJava2Examples
+[submodule "gradle_app"]
+	path = gradle_app
+	url = https://github.com/yaolihui/AsProject-gradle_app
