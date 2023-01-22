@@ -1,0 +1,6 @@
+[submodule "gradle_template"]
+	path = gradle_template
+	url = https://github.com/yaolihui/AsProject/gradle_template
+[submodule "RxJava2Examples"]
+	path = RxJava2Examples
+	url = http://github.com/yaolihui/AsProject/RxJava2Examples
